@@ -96,7 +96,6 @@ namespace WindowsService1
 
 		protected override void OnStart(string[] args)
 		{
-			System.Threading.Thread.Sleep(10000);
 			// create our thread start object to wrap our delegate method
 			ThreadStart ts = new ThreadStart(this.ServiceMain);
 
