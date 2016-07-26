@@ -7,7 +7,7 @@ To make the sample working do the following steps:
 
 2) Build the WindowsService1 project.
 
-3) Open Developer Command Prompt with *Administrator Priviledges* and go to the project bin directory where the PDFEditorSDKWindowsService.exe lies.
+3) Open Developer Command Prompt with **Administrator Priviledges** and go to the project bin directory where the PDFEditorSDKWindowsService.exe lies.
 
 4) Execute "installutil PDFEditorSDKWindowsService.exe" command to register the service. 
 
