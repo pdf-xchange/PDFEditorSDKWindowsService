@@ -9,7 +9,7 @@ To make the sample working do the following steps:
 
 3) Open **Developer Command Prompt** with **Administrator Priviledges** and go to the project bin directory where the PDFEditorSDKWindowsService.exe lies.
 
-4) Execute "installutil PDFEditorSDKWindowsService.exe" command to register the service. 
+4) Execute "installutil PDFEditorSDKWindowsService.exe" command to register the service. You should see the "The Commit phase completed successfully." phrase in the console.
 
 5) Open Task Manager -> go to the Services tab -> click Open Services to open the Services management
 
